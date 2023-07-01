@@ -2,4 +2,8 @@ def prin(texto='hello world'):
     print(texto)
 
 
-prin()
+prin()asdfugefghqwyuiftwedrvbhsd
+asedgAEIL
+DJKFawse'
+gAFG'
+sdgjAG'
