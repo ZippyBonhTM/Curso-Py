@@ -1,5 +1,5 @@
-def prin(texto='hello world'):
+def printar(texto='hello world'):
     print(texto)
 
 
-prin()
+printar()
