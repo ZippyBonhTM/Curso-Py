@@ -1,0 +1,6 @@
+Download do Python =>
+...
+
+Donwload da IDE =>
+Eu já tenho o meu (Visual Studio Code)
+
