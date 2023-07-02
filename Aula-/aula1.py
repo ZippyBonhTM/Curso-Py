@@ -1,7 +1,7 @@
 # Comando básico => print() => Saída de arquivos.
 # Mostra no terminal o objeto => print(<obj>).
 # OBS: Muito utilizado para debugar o código, ou seja, encontrar falhas e ir testando as partes do código.
-
+#Uma curiosidade do print(), é que ele 
 print('Hello, World!')
 
 # palavras chaves para string => \n Quebra de linha \t Tab. (São os mais usados, pesquisa depois mais alguns).
@@ -42,3 +42,26 @@ print(
 
 # A função type() mostra o tipo da variável, objeto ou array.
 # A quebra de linha no print() pode ser feita a cada fechamento de "" sem problema, isso pode ser feito em outros casos que vou falar futuramente.
+
+# Duas formas:
+inteiro = int()
+inteiro = 10
+print(inteiro)
+# OBS: não é preciso jogar um valor na variável quando declarada, o que significa que, para declarar uma variável, não será preciso dar a ela um valor.
+# OUTPUT =>
+
+# 10
+
+# Os => int(), float(), str(), são funções que podem ser usadas para converter os tipos.
+inteiro = 100
+print(type(inteiro)) # Para mostrar o tipo antes da mudança.
+#converter;
+string = str(inteiro) # Transforma o valor inteiro para string.
+print(type(string)) # Para mostrar o tipo depois da mudança.
+
+# OUTPUT =>
+
+# <class 'int'>
+# <class 'str'>
+
+# OBS: Nem tudo pode ser convertido em str()! Vou mostrar isso mais pra frente.
