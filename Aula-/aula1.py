@@ -11,7 +11,7 @@ print('Hello,\nGabriel,\n\t teste')
 # Variáveis;
 # Conceito => <nome da variável> = <tipo(<valor>)>.
 # Mas antes saiba que nem sempre é preciso dizer o tipo.
-# Existe => str(), int(), floart() => Como tipso -primitivos-.
+# Existe => str(), int(), floart() => Como tipo -primitivos-.
 # Existe também arrays, mas isso é assunto para um próximo arquivo.
 
 inteiro = int(100)
