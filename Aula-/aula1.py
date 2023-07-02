@@ -63,3 +63,5 @@ print(type(string)) # Para mostrar o tipo depois da mudança.
 
 # <class 'int'>
 # <class 'str'>
+
+# OBS: Nem tudo pode ser convertido em str()! Vou mostrar isso mais pra frente.
