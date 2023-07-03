@@ -1,0 +1,3 @@
+Faça um formulário que pergunte: O nome; o cpf; o endereço; a idade; a altura; e o telefone.
+
+Depois mostre em um relatório organizado.
